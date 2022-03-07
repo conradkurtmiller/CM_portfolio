@@ -6,4 +6,7 @@
 
 + Used exploratory data analysis tools to identify correlations
 
-![alt text](https://github.com/conradkurtmiller/NBA_salary_analysis/blob/main/pairplots_pervorp.png)
+<img alt="Image alt text" title="Pairplots"
+     src="https://github.com/conradkurtmiller/NBA_salary_analysis/blob/main/pairplots_pervorp.png "
+/>
+
